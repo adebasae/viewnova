@@ -1,0 +1,152 @@
+{
+  "rutas": [
+    { "key": "saldo", "lng": "es", "value": "saldo", "default": true },
+    { "key": "saldo", "lng": "eu", "value": "eu_saldo", "default": false },
+    { "key": "saldo", "lng": "ca", "value": "ca_saldo", "default": false },
+    { "key": "saldo", "lng": "gl", "value": "gl_saldo", "default": false },
+    { "key": "saldo", "lng": "de", "value": "de_saldo", "default": false },
+    { "key": "saldo", "lng": "en", "value": "en_saldo", "default": false },
+    { "key": "vales", "lng": "es", "value": "vales", "default": true },
+    { "key": "vales", "lng": "eu", "value": "eu_vales", "default": false },
+    { "key": "vales", "lng": "ca", "value": "ca_vales", "default": false },
+    { "key": "vales", "lng": "gl", "value": "gl_vales", "default": false },
+    { "key": "vales", "lng": "de", "value": "de_vales", "default": false },
+    { "key": "vales", "lng": "en", "value": "en_vales", "default": false },
+    { "key": "ahorros", "lng": "es", "value": "ahorros", "default": true },
+    { "key": "ahorros", "lng": "eu", "value": "eu_ahorros", "default": false },
+    { "key": "ahorros", "lng": "ca", "value": "ca_ahorros", "default": false },
+    { "key": "ahorros", "lng": "gl", "value": "gl_ahorros", "default": false },
+    { "key": "ahorros", "lng": "de", "value": "de_ahorros", "default": false },
+    { "key": "ahorros", "lng": "en", "value": "en_ahorros", "default": false },
+    {
+      "key": "puntos-travel",
+      "lng": "es",
+      "value": "puntos-travel",
+      "default": true
+    },
+    {
+      "key": "puntos-travel",
+      "lng": "eu",
+      "value": "eu_puntos-travel",
+      "default": false
+    },
+    {
+      "key": "puntos-travel",
+      "lng": "ca",
+      "value": "ca_puntos-travel",
+      "default": false
+    },
+    {
+      "key": "puntos-travel",
+      "lng": "gl",
+      "value": "gl_puntos-travel",
+      "default": false
+    },
+    {
+      "key": "puntos-travel",
+      "lng": "de",
+      "value": "de_puntos-travel",
+      "default": false
+    },
+    {
+      "key": "puntos-travel",
+      "lng": "en",
+      "value": "en_puntos-travel",
+      "default": false
+    },
+    { "key": "misdatos", "lng": "es", "value": "misdatos", "default": true },
+    {
+      "key": "misdatos",
+      "lng": "eu",
+      "value": "eu_misdatos",
+      "default": false
+    },
+    {
+      "key": "misdatos",
+      "lng": "ca",
+      "value": "ca_misdatos",
+      "default": false
+    },
+    {
+      "key": "misdatos",
+      "lng": "gl",
+      "value": "gl_misdatos",
+      "default": false
+    },
+    {
+      "key": "misdatos",
+      "lng": "de",
+      "value": "de_misdatos",
+      "default": false
+    },
+    {
+      "key": "misdatos",
+      "lng": "en",
+      "value": "en_misdatos",
+      "default": false
+    },
+    { "key": "compras", "lng": "es", "value": "compras", "default": true },
+    { "key": "compras", "lng": "eu", "value": "eu_compras", "default": false },
+    { "key": "compras", "lng": "ca", "value": "ca_compras", "default": false },
+    { "key": "compras", "lng": "gl", "value": "gl_compras", "default": false },
+    { "key": "compras", "lng": "de", "value": "de_compras", "default": false },
+    { "key": "compras", "lng": "en", "value": "en_compras", "default": false },
+    { "key": "tarjetas", "lng": "es", "value": "tarjetas", "default": true },
+    {
+      "key": "tarjetas",
+      "lng": "eu",
+      "value": "eu_tarjetas",
+      "default": false
+    },
+    {
+      "key": "tarjetas",
+      "lng": "ca",
+      "value": "ca_tarjetas",
+      "default": false
+    },
+    {
+      "key": "tarjetas",
+      "lng": "gl",
+      "value": "gl_tarjetas",
+      "default": false
+    },
+    {
+      "key": "tarjetas",
+      "lng": "de",
+      "value": "de_tarjetas",
+      "default": false
+    },
+    {
+      "key": "tarjetas",
+      "lng": "en",
+      "value": "en_tarjetas",
+      "default": false
+    },
+    {
+      "key": "revistas",
+      "lng": "es",
+      "value": "revista-eroski-club",
+      "default": true
+    },
+    {
+      "key": "revistas",
+      "lng": "ca",
+      "value": "revistas-eroski-club",
+      "default": false
+    },
+    { "key": "revistas", "lng": "en", "value": "journals", "default": false },
+    { "key": "revistas", "lng": "gl", "value": "revistes", "default": false },
+    {
+      "key": "revistas",
+      "lng": "eu",
+      "value": "aldizkariak",
+      "default": false
+    },
+    {
+      "key": "revistas",
+      "lng": "de",
+      "value": "zeitschriften",
+      "default": false
+    }
+  ]
+}

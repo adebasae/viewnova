@@ -1,0 +1,54 @@
+{
+  "access": [
+    {
+      "pack": "Configuración",
+      "links": [
+        {
+          "name": "Prevision",
+          "url": "/prevision",
+          "role": ["ADMIN"]
+        },
+        {
+          "name": "Tienda",
+          "url": "/configtienda",
+          "role": ["ADMIN"]
+        },
+        {
+          "name": "Personas",
+          "url": "/configpersona",
+          "role": ["ADMIN"]
+        }
+      ]
+    },
+    {
+      "pack": "Mi Cuenta1",
+      "links": [
+        {
+          "name": "Planificación Medios y Horarios",
+          "url": "/tipologia",
+          "role": ["ADMIN", "USER"]
+        }
+      ]
+    },
+    {
+      "pack": "Mi Cuenta2",
+      "links": [
+        {
+          "name": "Gestión Diaria",
+          "url": "/gestiondiaria",
+          "role": ["ADMIN", "USER"]
+        }
+      ]
+    },
+    {
+      "pack": "Mi Cuenta3",
+      "links": [
+        {
+          "name": "Estadísticas",
+          "url": "/gestiondiariamensual",
+          "role": ["ADMIN", "USER"]
+        }
+      ]
+    }
+  ]
+}
